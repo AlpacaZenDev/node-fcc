@@ -16,3 +16,5 @@ class Usuario {
 
 
 module.exports = Usuario;
+// module.exports = {
+//     Usuario,

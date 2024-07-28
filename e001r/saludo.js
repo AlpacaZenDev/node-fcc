@@ -1,13 +1,16 @@
 function saludar(nombre) {
-    return `Hola ${nombre}`;
+    return `Hola ${nombre}!`;   
 }
 
 function saludarHolaMundo() {
-    return 'Hola Mundo';
+    return 'Hola Mundo!';    
 }
 
 module.exports = {
     saludar,
     saludarHolaMundo
-};
+}
+
+
+// module.exports = saludar;
 
